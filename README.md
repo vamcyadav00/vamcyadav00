@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vamcyadav00
-- 👀 I’m interested in data analyst 
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning python sql and powerBi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,its my contact no 8106749188
